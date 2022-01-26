@@ -1,3 +1,7 @@
+WARNING WARNING WARNING
+
+This is a highly experimental code written as a proof of concept. It is most probably not anymore compatible with the dovecot's plugin system. Do not use it in production. 
+
 dovecot_encrypt
 ===============
 
